@@ -1,0 +1,17 @@
+{
+  "name": "angular-olark",
+  "main": "angular-olark.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gdi2290/angular-olark",
+  "authors": [
+    "gdi2290 <github@gdi2290.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
