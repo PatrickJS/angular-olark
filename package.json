@@ -1,0 +1,22 @@
+{
+  "name": "angular-olark",
+  "version": "1.0.0",
+  "description": "angular-olark",
+  "main": "angular-olark.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdi2290/angular-olark.git"
+  },
+  "author": "gdi2290 <github@gdi2290.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdi2290/angular-olark/issues"
+  },
+  "homepage": "https://github.com/gdi2290/angular-olark"
+}
