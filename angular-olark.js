@@ -69,5 +69,7 @@
   angular.module('ngOlark', [])
   .provider('$olark', $OlarkProvider)
   .provider('Olark',  $OlarkProvider);
+  
+  angular.module('angular-olark', ['ngOlark']);
 
 }));
